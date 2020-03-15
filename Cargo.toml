@@ -1,0 +1,10 @@
+[package]
+name = "atmos"
+version = "0.0.0"
+authors = ["Luc Street <lucis-fluxum@users.noreply.github.com>"]
+description = "..."
+repository = "https://github.com/lucis-fluxum/atmos-rs"
+license = "MIT"
+edition = "2018"
+
+[dependencies]
